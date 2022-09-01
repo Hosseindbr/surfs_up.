@@ -6,6 +6,10 @@ The goal of this project is to create a more efficient method for analyzing the 
 ## Results
 the retrieving data from June month showed that the temperature fluctuated between 64 and 85 75 °F, while in December,  the temperature changed within the range of  56-83 °F. the average temperature in June and December were 75 and 71 °F, respectively.
 
+<img width="192" alt="Screen Shot 2022-09-01 at 1 31 41 PM" src="https://user-images.githubusercontent.com/108313440/187993843-18655e18-afe2-4073-94f3-6acce9b4767f.png">
+
+              #### Figure 1. Statistical Analysis of Temperature Changes in June
+
 As shown by the histogram images, during these months, most of the days had temperature closed to the average temperature. Additionally, no dramatic change was observed between these two months, as there was only 4 °F difference in the average temperature of these months. 
 
 ## Summary
